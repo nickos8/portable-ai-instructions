@@ -1,0 +1,28 @@
+# Personal Learning Index
+
+This directory stores durable, confirmed learning. It is not a full transcript archive.
+
+A topic should be added only after teach-back, correction, or another clear demonstration of understanding. Update an existing topic page when possible.
+
+## Topic index
+
+| Topic | Category | Mastery status | Last reviewed | Topic page |
+|---|---|---|---|---|
+| Example: Laravel validation | Programming | New | YYYY-MM-DD | [Open](topics/example-topic.md) |
+
+Remove the example row after adding the first real topic.
+
+## Recent sessions
+
+| Date | Session | Related topic |
+|---|---|---|
+| YYYY-MM-DD | [Example session](sessions/YYYY-MM-DD-example-session.md) | [Example topic](topics/example-topic.md) |
+
+Remove the example row after adding the first real session.
+
+## Mastery levels
+
+- **New:** I have encountered the concept but cannot explain it reliably yet.
+- **Practicing:** I understand parts of it but still need help or repetition.
+- **Can Explain:** I can teach it clearly in my own words.
+- **Can Apply:** I can use it independently in a problem, project, exam, or job situation.
