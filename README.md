@@ -1,6 +1,6 @@
 # Portable AI Instructions
 
-Version: 1.0.0  
+Version: 1.1.0  
 Last updated: 2026-08-20
 
 This private, reusable instruction kit keeps your preferred AI behavior independent of any single account. The files are written in Markdown so they work well in GitHub, text editors, and most AI platforms.
@@ -16,8 +16,11 @@ Do not store passwords, API keys, recovery codes, government ID numbers, private
 - `MASTER_INSTRUCTIONS.md`: complete source of truth
 - `QUICK_START_PROMPT.md`: shorter version for custom-instruction fields
 - `modules/`: focused instructions you can attach only when relevant
+- `modules/LEARNING_DOCUMENTATION.md`: rules for recording confirmed learning
 - `templates/PROJECT_CONTEXT_TEMPLATE.md`: reusable context for a project
 - `templates/SESSION_HANDOFF_TEMPLATE.md`: saves progress before changing accounts or chats
+- `templates/LEARNING_ENTRY_TEMPLATE.md`: reusable format for topic notes
+- `learning/`: personal learning index, topic notes, session notes, and mastery tracker
 - `SECURITY_CHECKLIST.md`: privacy rules for the repository
 - `CHANGELOG.md`: record of instruction changes
 
@@ -27,10 +30,11 @@ Do not store passwords, API keys, recovery codes, government ID numbers, private
 
 1. Open `QUICK_START_PROMPT.md`.
 2. Copy it into the platform's custom-instruction or personalization field.
-3. For a learning session, also attach `modules/TEACHING_AND_REVIEW.md`.
+3. For a learning session, also attach `modules/TEACHING_AND_REVIEW.md` and `modules/LEARNING_DOCUMENTATION.md`.
 4. For programming work, also attach `modules/CODING_AND_PROJECT_WORK.md`.
 5. For job searching or resume work, also attach `modules/CAREER_SUPPORT.md`.
 6. If the platform has no custom-instruction feature, paste the relevant file at the beginning of a new chat.
+7. At the end of a meaningful learning session, update the relevant files under `learning/` only after your understanding has been checked.
 
 ### For an important ongoing project
 
