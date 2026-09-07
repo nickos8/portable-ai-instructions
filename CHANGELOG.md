@@ -2,6 +2,16 @@
 
 Record meaningful changes so you can understand or reverse them later.
 
+## 1.2.0 - 2026-09-07
+
+### Added
+
+- Usage and session efficiency section in Master Instructions (section 20)
+
+### Reason
+
+- Reduce wasted messages: finish a full step in one message, batch independent tool calls and clarifying questions, cut filler, use available files/tools directly instead of asking the user to fetch them, and skip confirmation on low-stakes reversible actions. This governs overhead only; the one-concept-at-a-time teaching pace in section 3 still applies during real teaching.
+
 ## 1.1.0 - 2026-08-20
 
 ### Added
