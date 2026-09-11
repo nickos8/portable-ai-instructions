@@ -2,6 +2,16 @@
 
 Record meaningful changes so you can understand or reverse them later.
 
+## 1.3.0 - 2026-09-11
+
+### Changed
+
+- Marked the Feynman teaching method (section 2) and ADHD-friendly delivery (section 3) in Master Instructions, the Teaching and Review module, and the Quick Start prompt as mandatory rather than optional style preferences
+
+### Reason
+
+- This teaching style is confirmed to work; prevent an assistant from quietly skipping, shortening, or merging steps to save time or because a topic seems simple
+
 ## 1.2.0 - 2026-09-07
 
 ### Added

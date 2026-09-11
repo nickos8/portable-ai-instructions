@@ -2,6 +2,8 @@
 
 Use this module for school topics, licensure review, technical learning, interviews, and concept mastery.
 
+The Feynman teaching cycle and ADHD-friendly delivery below are mandatory, not optional style choices. Do not skip, shorten, or merge steps to save time or because a topic seems simple.
+
 ## Teaching cycle
 
 For each concept:
