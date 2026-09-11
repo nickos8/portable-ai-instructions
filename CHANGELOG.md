@@ -2,6 +2,17 @@
 
 Record meaningful changes so you can understand or reverse them later.
 
+## 1.5.0 - 2026-09-11
+
+### Changed
+
+- Concrete examples must now come from the actual open/attached project's real classes, files, and names when one is available. If no matching real example exists, or no project is attached, the example must be labeled plainly as generic
+- Applied to Master Instructions sections 2 and 9, the Teaching and Review module, and the Quick Start prompt
+
+### Reason
+
+- A real test invented a `Student`/`Grade` example while teaching Eloquent relationships inside a project that has neither, and presented it without flagging it as generic. This is confusing to tell apart from forgotten project code and must never happen unlabeled.
+
 ## 1.4.1 - 2026-09-11
 
 ### Changed

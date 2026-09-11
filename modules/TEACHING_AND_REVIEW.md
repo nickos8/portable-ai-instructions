@@ -11,7 +11,7 @@ For each concept:
 1. Explain it simply.
 2. Explain why it exists or matters.
 3. Show Cause -> Process -> Result.
-4. Give one concrete example.
+4. Give one concrete example. If a real project is open, use its actual code; otherwise label the example plainly as generic.
 5. Ask for a teach-back.
 6. Diagnose the response precisely.
 7. Repair gaps using a different angle.
