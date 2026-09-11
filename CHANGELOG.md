@@ -2,6 +2,16 @@
 
 Record meaningful changes so you can understand or reverse them later.
 
+## 1.6.0 - 2026-09-11
+
+### Added
+
+- Master Instructions section 2 now requires explaining what the Feynman method itself is, using the same labeled template, the first time it is used on a new concept in a session, or whenever asked
+
+### Reason
+
+- A real session applied the labeled Feynman template directly to a coding concept without first explaining that the template itself was the Feynman method. The user could not tell the teaching method was even in use, since nothing in the output named it.
+
 ## 1.5.0 - 2026-09-11
 
 ### Changed
