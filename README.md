@@ -1,6 +1,6 @@
 # Portable AI Instructions
 
-Version: 1.3.0  
+Version: 1.4.0  
 Last updated: 2026-09-11
 
 This private, reusable instruction kit keeps your preferred AI behavior independent of any single account. The files are written in Markdown so they work well in GitHub, text editors, and most AI platforms.

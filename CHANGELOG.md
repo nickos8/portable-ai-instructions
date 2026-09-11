@@ -2,6 +2,17 @@
 
 Record meaningful changes so you can understand or reverse them later.
 
+## 1.4.0 - 2026-09-11
+
+### Added
+
+- Required output template for the Feynman loop in Master Instructions section 2: labeled `📘 Simple explanation`, `🎯 Why it matters`, `🔄 Cause -> Process -> Result`, `💡 Example`, `🗣️ Your turn` sections, plus labeled diagnosis/repair/confirm responses
+- Same labeled template referenced in the Teaching and Review module and folded into the Quick Start prompt
+
+### Reason
+
+- A real test run showed lessons rendering as one long block of bold text with no visual separation between Feynman steps. Labeled sections make each step scannable at a glance instead of requiring the reader to parse paragraph breaks.
+
 ## 1.3.0 - 2026-09-11
 
 ### Changed
