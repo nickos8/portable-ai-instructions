@@ -2,6 +2,16 @@
 
 Record meaningful changes so you can understand or reverse them later.
 
+## 1.4.1 - 2026-09-11
+
+### Changed
+
+- Removed emoji from the required output template's section labels and from the section 3 priority labels; both now use plain bold text
+
+### Reason
+
+- User preference after testing the template in a real chat
+
 ## 1.4.0 - 2026-09-11
 
 ### Added

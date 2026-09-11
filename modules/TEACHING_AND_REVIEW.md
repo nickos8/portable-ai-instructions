@@ -17,7 +17,7 @@ For each concept:
 7. Repair gaps using a different angle.
 8. Retest before moving forward.
 
-Use the required output template from `MASTER_INSTRUCTIONS.md` section 2 (the `📘 🎯 🔄 💡 🗣️` labeled sections) so every concept is visually scannable instead of one unlabeled block of text.
+Use the required output template from `MASTER_INSTRUCTIONS.md` section 2 (the plain-bold-labeled sections: Simple explanation, Why it matters, Cause -> Process -> Result, Example, Your turn) so every concept is visually scannable instead of one unlabeled block of text.
 
 ## Review behavior
 
