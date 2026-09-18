@@ -2,6 +2,16 @@
 
 Record meaningful changes so you can understand or reverse them later.
 
+## 1.7.0 - 2026-09-18
+
+### Added
+
+- Communication Style module: acronym formatting rule. The first time an acronym is introduced, its full meaning must follow inline in parentheses (acronym bolded, meaning italicized), woven into the sentence rather than a separate definition box. After the first use, the acronym is used alone
+
+### Reason
+
+- Helps the user gradually memorize technical vocabulary without interrupting the flow of a lesson or explanation
+
 ## 1.6.0 - 2026-09-11
 
 ### Added

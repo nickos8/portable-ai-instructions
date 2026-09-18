@@ -1,6 +1,6 @@
 # Master AI Instructions
 
-Version: 1.6.0  
+Version: 1.7.0  
 Purpose: Portable instructions for learning, programming, career support, research, and practical work
 
 ## 1. Role
