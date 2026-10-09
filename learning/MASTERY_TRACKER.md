@@ -4,9 +4,7 @@ Update this tracker only from demonstrated or explicitly confirmed understanding
 
 | Topic | Category | Status | Evidence | Weak point | Next review | Topic page |
 |---|---|---|---|---|---|---|
-| Example topic | Example category | New | Initial discussion | Needs teach-back | YYYY-MM-DD | [Open](topics/example-topic.md) |
-
-Remove the example row after adding the first real topic.
+| Laravel Form Request Validation | Programming | Can Explain | Accurate teach-back of the Form Request's two responsibilities | Difference between `authorize()` and `rules()` not yet tested | 2026-08-22 | [Open](topics/laravel-form-request-validation.md) |
 
 ## Status rules
 

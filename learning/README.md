@@ -8,17 +8,13 @@ A topic should be added only after teach-back, correction, or another clear demo
 
 | Topic | Category | Mastery status | Last reviewed | Topic page |
 |---|---|---|---|---|
-| Example: Laravel validation | Programming | New | YYYY-MM-DD | [Open](topics/example-topic.md) |
-
-Remove the example row after adding the first real topic.
+| Laravel Form Request Validation | Programming | Can Explain | 2026-08-21 | [Open](topics/laravel-form-request-validation.md) |
 
 ## Recent sessions
 
 | Date | Session | Related topic |
 |---|---|---|
-| YYYY-MM-DD | [Example session](sessions/YYYY-MM-DD-example-session.md) | [Example topic](topics/example-topic.md) |
-
-Remove the example row after adding the first real session.
+| No session recorded yet | | |
 
 ## Mastery levels
 
