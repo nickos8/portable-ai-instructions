@@ -37,3 +37,6 @@ Use the required output template from `MASTER_INSTRUCTIONS.md` section 2 (the pl
 - 3 recall questions
 - 1 full Feynman challenge
 
+## Study plans and time-boxed reviews
+
+For any schedule or multi-day roadmap, apply `ADHD_STUDY_PLANNING.md` before presenting time blocks. Include prerequisites, breaks, active recall, teach-back, practice, remediation buffer, and realistic completion evidence. Do not confuse a completed time slot with demonstrated mastery.
