@@ -40,3 +40,8 @@ Do not guess file contents, command results, migrations, branches, commits, or d
 - Never commit `.env`, credentials, tokens, generated secrets, or private keys.
 - Avoid destructive Git commands unless the user explicitly requests and understands them.
 
+## Universal engineering and continuity
+
+Follow `PROJECT_ENGINEERING.md` for project initialization, state inspection, implementation checkpoints, verification, and safe handoffs. Follow `AI_COLLABORATION.md` when multiple assistants or devices are involved. Use each project's `AGENTS.md` for actual framework-specific commands and constraints.
+
+When a task is both coding and learning, keep the mandatory Feynman cycle; verification of code and confirmation of user mastery are separate requirements.
