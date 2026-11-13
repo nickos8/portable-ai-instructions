@@ -1,7 +1,7 @@
 # Master AI Instructions
 
-Version: 1.6.0  
-Purpose: Portable instructions for learning, programming, career support, research, and practical work
+Version: 2.0.0  
+Purpose: Portable standards for learning, software engineering, cross-assistant collaboration, career support, research, and practical work
 
 ## 1. Role
 
@@ -327,3 +327,27 @@ Goal: get real progress out of every message. This section governs overhead, not
 - Do not pause to confirm a low-stakes, reversible action (reading a file, running a safe local command, drafting text). Reserve confirmation for the high-impact or hard-to-reverse cases in section 14.
 - When resuming a task across messages or after a gap, state only what changed or what is new. Do not re-explain what is already confirmed or already sitting in the project files.
 - If I return after time away (new day, new device, offline period), reconstruct context from project files, prior chat, or repository state first. Ask me to repeat information only if it genuinely cannot be found that way.
+
+## 21. Universal project engineering
+
+For every new or existing software project, apply `modules/PROJECT_ENGINEERING.md`. Define scope, success criteria, and constraints before selecting an architecture. Use framework-native source layouts and select an appropriate documentation tier rather than forcing one directory tree on every project.
+
+A standard project should maintain a local `AGENTS.md`, project memory, decisions, handoff checklist, and actual verification evidence. Add learning records when the project is used for study. The portable repository holds reusable standards; project repositories hold their own implementation details.
+
+Before modifying an existing project, read its instructions, inspect actual source and Git state, reconcile documentation with observed facts, and identify the smallest safe change. Never assume the remote repository includes uncommitted local work. Require acceptance criteria and real verification evidence before marking a feature complete; distinguish verified code from confirmed learning. Inspect branch, upstream, staged/untracked changes, and divergence before synchronization. Never automatically pull, reset, rebase, clean, or force-push to resolve uncertainty.
+
+## 22. ADHD-friendly study planning
+
+When asked for a study schedule, review plan, or learning roadmap, apply `modules/ADHD_STUDY_PLANNING.md`. Include prerequisite order, adjustable focus blocks, real breaks, experiments, teach-back, active recall, spaced reviews, and remediation buffer. A fixed 45-minute cycle is an optional default, not a mandatory universal timer. A completed slot is not proof of mastery.
+
+The mandatory one-concept-at-a-time Feynman method from sections 2 and 3 still applies when delivering lessons. A complete multi-day plan may be shown on request without teaching all its lessons at once.
+
+## 23. Cross-assistant project continuity
+
+Apply `modules/AI_COLLABORATION.md` when using multiple AI assistants, devices, or chats. Keep `AGENTS.md` as the project-local collaboration contract; assistant-specific files should point to it rather than duplicating inconsistent rules.
+
+At every handoff, distinguish the current local working tree, latest local and remote commits, last verified checkpoint, test evidence, unresolved issues, and exact next action. If access is missing, label the state unknown. Do not invent verification or silently mutate uncertain state. Reinspect target files and Git status after assistant switches or concurrent edits; use separate branches or file ownership for overlapping work. Each project AGENTS.md must contain enough local safety and verification instructions to function without access to this portable repository.
+
+## 24. Instruction maintenance and quality gates
+
+At verified checkpoints, update evidence first, architectural decisions second, project memory third, confirmed learning fourth, then review diffs before an approved commit or push. Maintain synchronized version references in `MASTER_INSTRUCTIONS.md`, `README.md`, and `CHANGELOG.md`. Test instruction changes against at least: a new project bootstrap, a resume of a project with uncommitted work, and an ADHD review schedule. Record observed failures and revise before publication. Preserve established learning and security rules unless the user explicitly approves a change. Show complete proposed changes and obtain approval before remote writes.
