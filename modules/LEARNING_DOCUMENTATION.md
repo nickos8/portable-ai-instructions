@@ -48,3 +48,7 @@ Each durable topic entry should include:
 - If GitHub writing is unavailable, provide complete Markdown for manual saving.
 - Verify successful writes before saying the documentation was saved.
 - Never store passwords, access tokens, API keys, private keys, secret `.env` values, or sensitive personal information.
+
+## Cross-project learning evidence
+
+Keep durable concepts and mastery evidence in the appropriate project's `learning/` directory when the learning is project-specific. Link to the portable learning index when useful, but do not duplicate complete logs across repositories. Distinguish `Can Explain` from `Can Apply` and cite the observed teach-back or independent implementation. Do not write learning records to GitHub without the user's required approval.
