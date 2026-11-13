@@ -1,5 +1,23 @@
 # Changelog
 
+## 2.0.0 - 2026-11-13
+
+### Added
+- Universal project engineering module with documentation tiers, verification, and checkpoint rules
+- ADHD study planning module with flexible focus cycles and retrieval practice
+- Cross-assistant collaboration contract
+- Reusable AGENTS, project memory, decisions, handoff, and architecture templates
+
+### Changed
+- Master instructions link the new standards without replacing the existing Feynman method
+- Coding, teaching, and learning modules link to the new standards
+- README and quick-start prompt reflect cross-project reuse
+- Synchronized version labels across the master and README
+
+### Reason
+- Reuse the successful developer-portfolio continuity process across Flutter, Laravel, and future projects while keeping each project's framework-specific rules local.
+
+
 Record meaningful changes so you can understand or reverse them later.
 
 ## 1.6.0 - 2026-09-11
